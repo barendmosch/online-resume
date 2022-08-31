@@ -1,146 +1,179 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Barend Mosch
+  title: Computer engineer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: moschbarend@gmail.com
+  phone: 06-81117266
   wechat:
   whatsapp:
   telegram:
-  website: example.com
-  medium:
-  linkedin:
+  website:
+  medium: 
+  linkedin: barend-mosch-2ba29b159
   googlescholar:
   researchgate:
-  github: github
+  github: barendmosch
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter:
   stackoverflow:
   quora:
   goodreads:
 
 profile:
   display: true
-  title: Profile
+  title: Profiel
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    + Januari 10, 1997
+    + Loudelsweg 71
 
-    ...
+      1861 TD Bergen
 
 experiences:
   display: true
-  title: Experiences
+  title: Werkervaring
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Content manager
+      time: Okt 2017 - heden
+      company: Groundsailer Media
+      tag: Part-time
+      location: Alkmaar, Nederland
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
+        Ik ben verantwoordelijk voor het bijhouden van nieuws content op het gebied van stortgoederen, recycling en vloeistof-behandeling technologieen en innovaties. Ook houd ik mij bezig met Google analytics en het bijhouden van social media kanalen.
+         
 projects:
   display: true
-  title: Projects
+  title: Projecten
   intro: |
-    This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Gezichtsdetectie en herkenning in een robotsysteem
+      link: https://github.com/barendmosch/Triple_AA
       details: |
-        Project Foo's detail, you can write markdown format text.
+        Afstudeerstagair bij Triple IT in Alkmaar. Onderzoek gedaan naar biometrische authenticatie methodes om het beveiligingssysteem te versterken.
 
-    - name: Bar
-      link:
+        + Gezichtsherkenning proof of concept gemaakt voor een ROS-gebaseerde robot
+        + Geschreven in JAVA met OpenCV
+        
+        <!---
+        + Viola & Jones detectie algoritme voor gezichtsdetectie en tracking
+        + LBP histogrammen voor gezichtsherkenning
+
+        Het ontwikkelen van een gezichtsherkenning en tracking applicatie gebouwd in C++ met ROS als basis framework. De applicatie maakt gebruik van de Viola Jones gezichtsdetectie algoritme en LBPH voor gezichtsherkenning. De applicatie is gebouwd met een realistische robotimplementatie in gedachten voor mogelijk toekomstig gebruik.
+        -->
+
+    - name: Smart farming Robot
+      link: https://github.com/Brandist/Optimus-Prune
       details: |
-        Project Bar's detail, you can write markdown format text.
+        Het ontwerpen van een autonome landbouw robot met als doel het oogsten van brocoli en peren in een boomgaard. Ook detecteert de robot infecties in tulpen.
+
+        + SLAM-techniek voor het rijden door een onbekende omgeving
+        + GPS en LIDAR voor lokalisatie
+        + Ultrasonische sensoren voor object detectie
+        + Cameras voor infectiedetectie in tulpen
+
+        <!---
+        Het ontwikkelen van een autonome landbouw robot voor het oogsten van brocoli en peren in een boomgaard. De robot beschikt over alle noodzakelijke componenten om autonoom te rijden. Het maakt gebruik van de SLAM-techniek om het veld in kaart te brengen terwijl de robot zichzelf lokaliseert in het veld. 
+        -->
+
+    - name: Azure Serverless API
+      link: https://github.com/Sinscerly/TinderClone
+      details: |
+        De API wordt gebruikt als een coaching systeem die MBO studenten koppelen aan HBO studenten op een gebruiksvriendelijke manier.
+
+        + Serverless API in C#
+        + Maakt gebruikt van Azure Cloud services en functions
+
+education:
+  display: true
+  title: Opleidingen
+  items:
+    - university: Hogeschool Inholland Alkmaar
+      time: 2016 - 2022
+      major: HBO. Technische Informatica
+      degree: Bachelor
+      details: |
+        Het werken aan meerdere projecten op verschillende gebieden, zoals het besturen van low-level hardware met C, OOP met JAVA en C++, webontwikkeling met C# en algoritmes en datastructuren. 
+
+        <!--- 
+        + Low-level hardware met C
+        + OOP met JAVA en C++
+        + Webdevelopment met C# en .dotnet
+        + Complexe algoritmes en datastructuren
+        + Basis kennis van hardware, electronica en mechanica op robotics niveau
+
+        Tijdens robotica-projecten is het installeren van de hardware en elektronica net zo essentieel als het programmeren van de functionaliteiten.
+        -->
+
+    - university: Hogeschool van Amsterdam
+      time: 2015 - 2016
+      major: HBO. Toegepaste Wiskunde
+      degree:
+      details: |
+      Hier kwam voornamelijk standaard algoritmes, complexe algebra met matrices, statistieken en hypotheses aan bod.
 
 skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
+    + GIT
+    + UNIX
+    + UML
+    + SQL
+    + Opmaaktalen (Markdown, LateX)
+    
+    + **Programmeer talen:**
 
   levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
-
-education:
-  display: true
-  title: Education
-  items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+    - name: JAVA
+      level: 85
+    - name: C++
+      level: 85
+    - name: C#
+      level: 85
+    - name: Python
+      level: 75
+    - name: C
+      level: 65
+    - name: Assembly
+      level: 65
 
 certificates:
   display: true
-  title: Certificates
+  title: Certificaten
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
+    - name: CCNA 1
+      authority: 
+      time: 
       details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
+        Cisco CCNA Routing and Switching: Introduction to Networks
+    - name: CCNA 2
+      authority: 
+      time: 
       details: |
+        Cisco CCNA Routing and Switching Essentials
+    - name: CCNA 3
+      authority: 
+      time: 
+      details: |
+        Cisco CCNA Scaling Networks
+    - name: CCNA 4
+      authority: 
+      time: 
+      details: |
+        Cisco CCNA Connecting Networks
+    - name: CCNA Security
+      authority: 
+      time: 
+      details: |
+        Cisco CCNA Security: Implementing Network Security
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -156,7 +189,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -164,24 +197,24 @@ patents:
 
 languages:
   display: true
-  title: Languages
+  title: Talen
   items:
-    - idiom: Chinese
-      level: Native
+    - idiom: Nederlands
+      level: moedertaal
     - idiom: English
-      level: Professional
+      level: vloeiend
 
 interests:
   display: true
-  title: Interests
+  title: Hobby's
   items:
-    - item: Reading
-      link:
-    - item: Cooking
-      link:
+    - item: Muziek
+    - item: Series & films
+    - item: Hardlopen
+    - item: Zwemmen
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -191,7 +224,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
