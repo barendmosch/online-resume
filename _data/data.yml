@@ -204,5 +204,5 @@ evaluation:
 footer:
   display: false
 
-# close: >
-#   Sorry, my resume has been hidden.
+close: >
+  Sorry, my resume has been hidden.
