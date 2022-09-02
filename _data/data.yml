@@ -76,24 +76,6 @@ projects:
         + Serverless API in C#
         + Maakt gebruikt van Azure Cloud services en functions
 
-education:
-  display: true
-  title: Opleidingen
-  items:
-    - university: Hogeschool Inholland Alkmaar
-      time: 2016 - 2022
-      major: HBO. Technische Informatica
-      degree: Bachelor
-      details: |
-        Het werken aan meerdere projecten op verschillende gebieden, zoals het besturen van low-level hardware met C, OOP met JAVA en C++, webontwikkeling met C# en algoritmes en datastructuren. 
-
-    - university: Hogeschool van Amsterdam
-      time: 2015 - 2016
-      major: HBO. Toegepaste Wiskunde
-      degree:
-      details: |
-      Hier kwam voornamelijk standaard algoritmes, complexe algebra met matrices, statistieken en hypotheses aan bod.
-
 skills:
   display: true
   title: Skills
@@ -119,6 +101,24 @@ skills:
       level: 65
     - name: Assembly
       level: 65
+
+education:
+  display: true
+  title: Opleidingen
+  items:
+    - university: Hogeschool Inholland Alkmaar
+      time: 2016 - 2022
+      major: HBO. Technische Informatica
+      degree: Bachelor
+      details: |
+        Het werken aan meerdere projecten op verschillende gebieden, zoals het besturen van low-level hardware met C, OOP met JAVA en C++, webontwikkeling met C# en algoritmes en datastructuren. 
+
+    - university: Hogeschool van Amsterdam
+      time: 2015 - 2016
+      major: HBO. Toegepaste Wiskunde
+      degree:
+      details: |
+      Hier kwam voornamelijk standaard algoritmes, complexe algebra met matrices, statistieken en hypotheses aan bod.
 
 certificates:
   display: true
