@@ -30,9 +30,8 @@ profile:
   details: |
     + Januari 10, 1997
     + Loudelsweg 71
-
-      1861 TD Bergen
-
+    +  1861 TD Bergen
+ 
 experiences:
   display: true
   title: Werkervaring
@@ -58,13 +57,6 @@ projects:
 
         + Gezichtsherkenning proof of concept gemaakt voor een ROS-gebaseerde robot
         + Geschreven in JAVA met OpenCV
-        
-        <!---
-        + Viola & Jones detectie algoritme voor gezichtsdetectie en tracking
-        + LBP histogrammen voor gezichtsherkenning
-
-        Het ontwikkelen van een gezichtsherkenning en tracking applicatie gebouwd in C++ met ROS als basis framework. De applicatie maakt gebruik van de Viola Jones gezichtsdetectie algoritme en LBPH voor gezichtsherkenning. De applicatie is gebouwd met een realistische robotimplementatie in gedachten voor mogelijk toekomstig gebruik.
-        -->
 
     - name: Smart farming Robot
       link: https://github.com/Brandist/Optimus-Prune
@@ -75,10 +67,6 @@ projects:
         + GPS en LIDAR voor lokalisatie
         + Ultrasonische sensoren voor object detectie
         + Cameras voor infectiedetectie in tulpen
-
-        <!---
-        Het ontwikkelen van een autonome landbouw robot voor het oogsten van brocoli en peren in een boomgaard. De robot beschikt over alle noodzakelijke componenten om autonoom te rijden. Het maakt gebruik van de SLAM-techniek om het veld in kaart te brengen terwijl de robot zichzelf lokaliseert in het veld. 
-        -->
 
     - name: Azure Serverless API
       link: https://github.com/Sinscerly/TinderClone
@@ -98,16 +86,6 @@ education:
       degree: Bachelor
       details: |
         Het werken aan meerdere projecten op verschillende gebieden, zoals het besturen van low-level hardware met C, OOP met JAVA en C++, webontwikkeling met C# en algoritmes en datastructuren. 
-
-        <!--- 
-        + Low-level hardware met C
-        + OOP met JAVA en C++
-        + Webdevelopment met C# en .dotnet
-        + Complexe algoritmes en datastructuren
-        + Basis kennis van hardware, electronica en mechanica op robotics niveau
-
-        Tijdens robotica-projecten is het installeren van de hardware en elektronica net zo essentieel als het programmeren van de functionaliteiten.
-        -->
 
     - university: Hogeschool van Amsterdam
       time: 2015 - 2016
@@ -226,5 +204,5 @@ evaluation:
 footer:
   display: false
 
-close: >
-  Sorry, my resume has been hidden.
+# close: >
+#   Sorry, my resume has been hidden.
