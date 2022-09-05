@@ -112,12 +112,12 @@ education:
       details: |
         Het werken aan meerdere projecten op verschillende gebieden, zoals het besturen van low-level hardware met C, OOP met JAVA en C++, webontwikkeling met C# en algoritmes en datastructuren. 
 
-    - university: Hogeschool van Amsterdam
-      time: 2015 - 2016
-      major: HBO. Toegepaste Wiskunde
-      degree:
-      details: |
-        Hier kwam voornamelijk standaard algoritmes, complexe algebra met matrices, statistieken en hypotheses aan bod.
+#     - university: Hogeschool van Amsterdam
+#       time: 2015 - 2016
+#       major: HBO. Toegepaste Wiskunde
+#       degree:
+#       details: |
+#         Hier kwam voornamelijk standaard algoritmes, complexe algebra met matrices, statistieken en hypotheses aan bod.
 
 certificates:
   display: true
