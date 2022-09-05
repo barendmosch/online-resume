@@ -70,7 +70,7 @@ projects:
     - name: Azure Serverless API
       link: https://github.com/barendmosch/TinderClone
       details: |
-        De API wordt gebruikt als een coaching systeem die MBO studenten koppelen aan HBO studenten op een gebruiksvriendelijke manier.
+        De API wordt gebruikt als een coaching systeem die MBO studenten koppelt aan HBO studenten op een gebruikersvriendelijke manier.
 
         + Serverless API in C#
         + Maakt gebruikt van Azure Cloud services en functions
