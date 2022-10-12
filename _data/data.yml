@@ -66,6 +66,7 @@ projects:
         + GPS en LIDAR voor lokalisatie
         + Ultrasonische sensoren voor object detectie
         + Cameras voor infectiedetectie in tulpen
+        + Geschreven in C++
 
     - name: Azure Serverless API
       link: https://github.com/barendmosch/TinderClone
